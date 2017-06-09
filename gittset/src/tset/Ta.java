@@ -5,9 +5,10 @@ public class Ta {
 		
 		return x+y;
 	}
-	public static void main(String[] args) {
-		Ta ta=new Ta();
-		ta.sum(33, 55);
+	public void print(){}
+	public static void main(String[] args) {     
+	
+		
 	}
 }
 
