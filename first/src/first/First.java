@@ -4,8 +4,8 @@ public class First {
 
 	public static void main(String[] args) {
 		
-			int i=10;
-			int j=20;
+			int i=30;
+			int j=50;
 		
 			System.out.println(10*i+j*20);
 	}
